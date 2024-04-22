@@ -1,1 +1,1 @@
-# Communication-Toolbox-Guildlines-PANOR.github.io
+# Communication-Toolbox-Guidelines-PANOR.github.io
